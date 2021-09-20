@@ -50,7 +50,7 @@ Transfer learning (TL) is a research problem in machine learning (ML) that focus
 In this repository I have made a front end using streamlit .Streamlit doesn’t provide the live capture feature itself, instead uses a third party API. I have used streamlit-webrtc which helped to deal with real-time video streams. Image captured from the webcam is sent to VideoTransformer function to detect the emotion. Then this model was deployed on amazon web services Ec2 Instances     AWS 
 
 ```bash
-  Link:- http:// http://18.218.31.105:8501/
+  Link:- http://18.118.198.106:8501/
 ```
 
   
@@ -65,7 +65,7 @@ In this repository I have made a front end using streamlit .Streamlit doesn’t 
 Any additional information goes here
 
   ```bash
-  Link:- http:// http://18.218.31.105:8501/
+  Link:- http://18.118.198.106:8501/
 ```
 
   ❖ https://towardsdatascience.com/face-detection-recognition-and-emotion-detection-in-8-lin es-of-code-b2ce32d4d5de 
